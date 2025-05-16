@@ -26,6 +26,14 @@ Custom Calculated Fields (for discount %, revenue, etc.)
 Data cleaning for consistent analysis
 
 Key Insights
+
+![Dashboard](https://github.com/user-attachments/assets/2ad7bf54-cd5a-448f-9a85-f6c1b052b270)
+
+
+
+
+
+
 Categories with highest average discounts
 Product types with best or worst ratings
 Relationship between discounting and product popularity
